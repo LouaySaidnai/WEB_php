@@ -1,9 +1,5 @@
 {
-
   "name": "ex2php",
-
-  "name": "exbd",
->>>>>>> 10b3891ecf7b641e4908e68328a0cbe560acb6ac
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -14,10 +10,6 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-<<<<<<< HEAD
     "bootswatch": "^5.3.5"
-=======
-    "bootstrap": "^5.3.5"
->>>>>>> 10b3891ecf7b641e4908e68328a0cbe560acb6ac
   }
 }
